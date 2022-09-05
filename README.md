@@ -4,8 +4,6 @@ This project is to display the relevant information regarding Sina-Weibo. In sho
 * Data
 * Service
 
-For Chinese version, please click here.
-
 ## Data
 Here we provide several data samples for researchers to build an initial idea about Weibo data. Should you need more assistance, please contact me. 
 * User related
@@ -14,10 +12,9 @@ Here we provide several data samples for researchers to build an initial idea ab
 * Post related
   * Post_10K: We provide a sample dataset of 10 thousand posts with their partial info (postid, userid, processed text).
   * Poi_10K: We provide a sample dataset of 10 thousand pois with their partial info (city, location name, address).
-  * LinkSource: We provide a list showing the source of link embedded in posts.
 
 ## Service
-To enable more research project on Weibo, I am happy to share the data on a service mode. Please fill out the form to let me know your need. I will try my best to reach out within 3 business days.
+To enable more research project on Weibo, I am happy to process the data on a service mode. Please fill out the [form](https://docs.google.com/forms/d/1CXsNEpsAg7VeDt-QQxEUX1tb9QvfVKPKSP3KRFgFVmk/) to let me know your need. I will try my best to reach out within 3 business days.
 * I started collecting Weibo geotagged data since 09/01/2022. In general, there are:
   * 117K geotagged posts per day
   * 5K distinct users in total
