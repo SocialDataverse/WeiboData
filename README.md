@@ -27,3 +27,6 @@ To enable more research project on Weibo, I am happy to process the data on a se
   * Given specific topics, query the post database and send you the hit post
   * Given specific location, query the poi database and send you the hit poi
   * For other special need, please use the form to inform me about your requirements.
+
+## Contact
+Please fill out the [form](https://docs.google.com/forms/d/1CXsNEpsAg7VeDt-QQxEUX1tb9QvfVKPKSP3KRFgFVmk/) to contact me!
