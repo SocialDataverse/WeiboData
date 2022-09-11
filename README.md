@@ -16,10 +16,12 @@ Here we provide several data samples for researchers to build an initial idea ab
 ## Service
 To enable more research project on Weibo, I am happy to process the data on a service mode. Please fill out the [form](https://docs.google.com/forms/d/1CXsNEpsAg7VeDt-QQxEUX1tb9QvfVKPKSP3KRFgFVmk/) to let me know your need. I will try my best to reach out within 3 business days.
 * I started collecting Weibo geotagged data since 09/01/2022. In general, there are:
-  * 117K geotagged posts per day
-  * 5K distinct users in total
+  * 11 days of data
+  * 1.75 million posts in total
+  * 159K geotagged posts per day
+  * 6K distinct users in total
   * 3K distinct pois in total
-  * (updated on 09/04/2022)
+  * (updated on 09/11/2022)
 
 * For your research, I provide the following service:
   * Given specific date range, query the post database and send you the hit post
